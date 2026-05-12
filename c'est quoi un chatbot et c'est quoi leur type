@@ -1,0 +1,36 @@
+1-c'est quoi un chatbot
+Un chatbot est un programme qui peut discuter avec les utilisateurs par texte ou parfois par voix.
+Il répond aux questions automatiquement, comme un assistant virtuel.
+Exemples :
+.service client
+.assistant de shopping
+.chatbot scolaire
+.IA comme ChatGPT
+2-Types de chatbots
+   1. Chatbot basé sur des règles
+        Il fonctionne avec des réponses préparées à l’avance.
+        Avantages
+        .simple à créer
+        .rapide
+        Inconvénients
+        .comprend mal les phrases compliquées
+        .réponses limitées
+    2. Chatbot IA (intelligent)
+            Il utilise l’intelligence artificielle et le NLP (traitement du langage naturel).
+            Il peut :
+            comprendre plusieurs façons de parler
+            apprendre des conversations
+            donner des réponses plus naturelles
+            Exemple :
+                ChatGPT
+                assistants virtuels modernes
+            +Avantages
+              plus intelligent
+              conversations naturelles
+            - Inconvénients
+               plus difficile à développer
+               nécessite parfois Internet et des modèles IA
+    3. Chatbot hybride
+       Mélange :
+            règles + intelligence artificielle
+            Très utilisé dans les entreprises.
