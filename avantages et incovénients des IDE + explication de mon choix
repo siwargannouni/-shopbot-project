@@ -1,0 +1,27 @@
+1-Avantages des IDE
+.facilitent l’écriture du code
+.détectent les erreurs rapidement
+.permettent d’exécuter les programmes facilement
+.offrent l’autocomplétion du code
+.organisent les fichiers du projet
+.améliorent la productivité du développeur
+2-Inconvénients des IDE
+.certains IDE sont lourds et consomment beaucoup de mémoire
+.peuvent être difficiles pour les débutants
+.certaines fonctionnalités sont payantes
+.nécessitent parfois une configuration complexe
+3-J’ai choisi Visual Studio Code pour développer le code de mon chatbot ShopBot car c’est un environnement simple, léger et adapté au développement web et Python.
+Il permet :
+d’écrire le code facilement
+d’utiliser plusieurs langages de programmation
+d’installer des extensions utiles
+d’exécuter et tester le projet rapidement
+De plus, Visual Studio Code possède des fonctionnalités importantes comme :
+l’autocomplétion
+le terminal intégré
+la coloration syntaxique
+le débogage
+
+Comparé à PyCharm, VS Code est plus léger et plus simple à utiliser.
+
+Comparé à Thonny, VS Code offre plus de fonctionnalités et convient mieux aux projets complets comme ShopBot.
