@@ -1,0 +1,34 @@
+Un IDE signifie Integrated Development Environment
+(en français : Environnement de Développement Intégré).
+C’est un logiciel utilisé pour développer des applications et écrire du code.
+Un IDE contient généralement :
+un éditeur de code
+un compilateur ou interpréteur
+un débogueur
+des outils de gestion de projet
+Types d’IDE
+1. IDE de bureau (Desktop IDE)
+Logiciels installés sur l’ordinateur.
+Exemples :
+Visual Studio Code
+PyCharm
+Eclipse
+2. IDE en ligne (Cloud IDE)
+Fonctionnent directement dans le navigateur.
+exemples:
+Replit
+GitHub Codespaces
+3. IDE spécialisés
+Créés pour un langage ou un domaine spécifique.
+Développement Python
+PyCharm
+Développement Java
+IntelliJ IDEA
+Développement mobile Android
+Android Studio
+Fonctions principales d’un IDE
+écrire du code
+exécuter les programmes
+corriger les erreurs
+organiser les fichiers du projet
+autocomplétion du code
