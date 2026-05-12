@@ -1,0 +1,21 @@
+Flask est un micro-framework web en Python.
+.En simple : c’est un outil qui permet de créer des sites web ou des API facilement avec Python.
+1-À quoi sert Flask ?
+  Avec Flask, tu peux :
+  créer un site web
+  faire une API (par exemple pour une appli mobile)
+  gérer des routes (URL)
+  afficher des pages HTML
+2-Pourquoi on dit "micro-framework" ?
+  Parce qu’il est :
+    +léger (peu de fonctionnalités intégrées)
+    +simple à utiliser
+    +flexible (tu ajoutes seulement ce dont tu as besoin)
+Exemple simple:
+        from flask import Flask
+        app = Flask(__name__)
+        @app.route("/")
+        def accueil():
+        return "Bonjour !"
+
+app.run()
