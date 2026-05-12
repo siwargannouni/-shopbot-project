@@ -1,0 +1,25 @@
+Un chatbot basé sur l’IA est un programme qui utilise l’intelligence artificielle pour comprendre les messages des utilisateurs et répondre de manière naturelle.
+Contrairement à un chatbot classique qui suit seulement des règles fixes, le chatbot IA peut comprendre différentes façons de parler et générer des réponses plus intelligentes.
+Fonctionnement d’un chatbot IA
+L’utilisateur envoie un message
+Exemple :
+« Je cherche un pantalon noir »
+Le chatbot analyse le message
+Il identifie :
+l’intention
+les mots importants
+L’intelligence artificielle traite la demande
+Le chatbot génère une réponse adaptée
+Technologies utilisées
+Backend
+Python
+Flask
+Django
+Intelligence artificielle
+NLP (Traitement du langage naturel)
+modèles IA
+APIs IA
+Exemples :
+OpenAI
+Groq
+Google
