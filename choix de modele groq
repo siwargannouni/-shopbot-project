@@ -1,0 +1,10 @@
+J’ai choisi le modèle de Groq pour mon chatbot ShopBot car il permet d’obtenir des réponses rapides et efficaces grâce à sa grande vitesse de traitement.
+Ce choix est adapté à un chatbot puisque les utilisateurs ont besoin de réponses instantanées pendant la conversation.
+De plus, les modèles proposés par Groq sont faciles à intégrer dans un projet Python avec des APIs simples à utiliser.
+Les principales raisons de ce choix sont :
+rapidité d’exécution
+bonnes performances pour les conversations
+facilité d’intégration avec Python et Flask
+support des modèles d’intelligence artificielle modernes
+amélioration de l’expérience utilisateur grâce aux réponses rapides
+Ainsi, Groq représente une solution efficace pour développer un chatbot intelligent comme ShopBot.
