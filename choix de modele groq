@@ -1,10 +1,10 @@
-J’ai choisi le modèle de Groq pour mon chatbot ShopBot car il permet d’obtenir des réponses rapides et efficaces grâce à sa grande vitesse de traitement.
-Ce choix est adapté à un chatbot puisque les utilisateurs ont besoin de réponses instantanées pendant la conversation.
-De plus, les modèles proposés par Groq sont faciles à intégrer dans un projet Python avec des APIs simples à utiliser.
+J’ai choisi le modèle "llama-3.1-8b-instant" de Groq pour mon chatbot ShopBot car il permet d’obtenir des réponses rapides et pertinentes en temps réel.
+Ce choix est adapté à un chatbot puisque les utilisateurs ont besoin de réponses instantanées et fluides. De plus, ce modèle offre de bonnes performances tout en restant simple à intégrer dans un projet Python avec Flask.
 Les principales raisons de ce choix sont :
-rapidité d’exécution
-bonnes performances pour les conversations
-facilité d’intégration avec Python et Flask
-support des modèles d’intelligence artificielle modernes
-amélioration de l’expérience utilisateur grâce aux réponses rapides
-Ainsi, Groq représente une solution efficace pour développer un chatbot intelligent comme ShopBot.
+- rapidité d’exécution
+- réponses instantanées et naturelles
+- bonne compréhension des demandes utilisateurs
+- facilité d’intégration avec Python et Flask
+- performances efficaces pour un chatbot intelligent
+- amélioration de l’expérience utilisateur grâce aux réponses rapides
+Ainsi, le modèle "llama-3.1-8b-instant" représente une solution efficace pour développer un chatbot moderne et performant.
